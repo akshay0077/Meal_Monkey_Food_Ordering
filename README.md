@@ -1,5 +1,5 @@
 # Meal_Monkey_Food_Ordering
-This is my Final year 5th sem College Project
+This is my Final year(1st sem)College Project
 
 Like multiple Food Ordering Website and Application available in market.
 But My website (Meal Monkey) To use And Help Small Kitchen to Sell out his Favourite items in other People.
