@@ -15,3 +15,14 @@ All Functionality are here
 - Order PDF downloads and Review Generator
 - Paytm Third party payment method are available 
 - etc ...
+
+
+
+Live Website : 
+  (i)  Front-end : http://mealmonkey.great-site.net/php/food_ordering/
+  
+  (ii) Admin: http://mealmonkey.great-site.net/php/food_ordering/admin/login.php
+  
+  (iii)Delivery_boy: http://mealmonkey.great-site.net/php/food_ordering/delivery_boy/login.php
+  
+Github Code : https://github.com/akshay0077/Meal_Monkey_Food_Ordering
